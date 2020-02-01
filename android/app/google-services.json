@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994146443104",
+    "firebase_url": "https://fir-realtime-pregum.firebaseio.com",
+    "project_id": "fir-realtime-pregum",
+    "storage_bucket": "fir-realtime-pregum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994146443104:android:65338c721e914dc67c8805",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtime_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994146443104-dfudlnsnt15juh8ip8oec3thgiqcr24b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2ZuL63YQ-6zXiX4-DyD1R9MEgy6oiks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994146443104-dfudlnsnt15juh8ip8oec3thgiqcr24b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
